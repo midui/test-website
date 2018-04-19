@@ -6,6 +6,3 @@ BlockChain  网站
 https://github.com/CodyHouse/project-cards-template
 https://github.com/CodyHouse/hero-slider
 https://github.com/CodyHouse/immersive-video-template
-
-
-这个是
